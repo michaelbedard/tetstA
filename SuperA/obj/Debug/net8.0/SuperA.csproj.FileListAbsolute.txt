@@ -1,0 +1,14 @@
+C:\Users\Michael\TestSub\SuperA\SuperA\bin\Debug\net8.0\SuperA.exe
+C:\Users\Michael\TestSub\SuperA\SuperA\bin\Debug\net8.0\SuperA.deps.json
+C:\Users\Michael\TestSub\SuperA\SuperA\bin\Debug\net8.0\SuperA.runtimeconfig.json
+C:\Users\Michael\TestSub\SuperA\SuperA\bin\Debug\net8.0\SuperA.dll
+C:\Users\Michael\TestSub\SuperA\SuperA\bin\Debug\net8.0\SuperA.pdb
+C:\Users\Michael\TestSub\SuperA\SuperA\obj\Debug\net8.0\SuperA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\TestSub\SuperA\SuperA\obj\Debug\net8.0\SuperA.AssemblyInfoInputs.cache
+C:\Users\Michael\TestSub\SuperA\SuperA\obj\Debug\net8.0\SuperA.AssemblyInfo.cs
+C:\Users\Michael\TestSub\SuperA\SuperA\obj\Debug\net8.0\SuperA.csproj.CoreCompileInputs.cache
+C:\Users\Michael\TestSub\SuperA\SuperA\obj\Debug\net8.0\SuperA.dll
+C:\Users\Michael\TestSub\SuperA\SuperA\obj\Debug\net8.0\refint\SuperA.dll
+C:\Users\Michael\TestSub\SuperA\SuperA\obj\Debug\net8.0\SuperA.pdb
+C:\Users\Michael\TestSub\SuperA\SuperA\obj\Debug\net8.0\SuperA.genruntimeconfig.cache
+C:\Users\Michael\TestSub\SuperA\SuperA\obj\Debug\net8.0\ref\SuperA.dll
